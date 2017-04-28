@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+
+  "name": "simple alternative",
+  "description": "detect alternative pages with simple language",
+  "version": "1.0.0",
+
+  "icons": {
+    "32": "icon/icon-32.png",
+    "128": "icon/icon-128.png"
+  },
+
+  "background": {
+    "scripts": ["bg.js"],
+    "persistent": true
+  },
+
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["simple.js"],
+    "run_at": "document_idle"
+  }],
+
+  "page_action": {
+    "default_icon": {
+      "32": "icon/icon-32.png",
+      "128": "icon/icon-128.png"
+    },
+    "default_title": "simple alternative"
+  }
+}
