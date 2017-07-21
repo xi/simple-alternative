@@ -36,4 +36,4 @@ adoption.  This extension is merely a proof of concept. I would like to see
 this kind of functionality directly in browsers one day.
 
 [1]: http://permalink.gmane.org/gmane.ietf.languages/11065
-[2]: https://www.w3.org/TR/2008/REC-WCAG20-20081211/#meaning-supplements
+[2]: https://www.w3.org/TR/WCAG20/#meaning-supplements
