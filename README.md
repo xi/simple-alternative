@@ -22,7 +22,8 @@ This could be useful for a lot of people:
 -	people with cognitive disabilities
 -	second language learners
 
-Among other things, it can be used to conform with [WCAG][2] 3.1.5:
+Among other things, it can be used to conform with 
+[Success Criterion 3.1.5 in WCAG 2.0][2]:
 
 > When text requires reading ability more advanced than the lower secondary
 > education level after removal of proper names and titles, supplemental
@@ -36,4 +37,4 @@ adoption.  This extension is merely a proof of concept. I would like to see
 this kind of functionality directly in browsers one day.
 
 [1]: http://permalink.gmane.org/gmane.ietf.languages/11065
-[2]: https://www.w3.org/TR/WCAG20/
+[2]: https://www.w3.org/TR/WCAG20/#meaning-supplements
