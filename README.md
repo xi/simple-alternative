@@ -22,7 +22,8 @@ This could be useful for a lot of people:
 -	people with cognitive disabilities
 -	second language learners
 
-Among other things, it can be used to conform with [Success Criterion 3.1.5 in WCAG 2.0][2]:
+Among other things, it can be used to conform with 
+[Success Criterion 3.1.5 in WCAG 2.0][2]:
 
 > When text requires reading ability more advanced than the lower secondary
 > education level after removal of proper names and titles, supplemental
