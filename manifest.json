@@ -6,8 +6,8 @@
   "version": "1.0.0",
 
   "icons": {
-    "32": "icon/icon-32.png",
-    "128": "icon/icon-128.png"
+    "32": "icons/icon-32.png",
+    "128": "icons/icon-128.png"
   },
 
   "background": {
@@ -23,8 +23,8 @@
 
   "page_action": {
     "default_icon": {
-      "32": "icon/icon-32.png",
-      "128": "icon/icon-128.png"
+      "32": "icons/icon-32.png",
+      "128": "icons/icon-128.png"
     },
     "default_title": "simple alternative"
   }
